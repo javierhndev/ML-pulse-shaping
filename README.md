@@ -15,3 +15,7 @@ The `2024_09_18_physicsrun - 20240918_inshot_tempcorrected.csv` is a database ge
 # Forward modeling
 
 Use the `forwad_models.ipynb` notebook to recreate the results from the Forward modeling section
+
+# Roundtrip modeling
+
+Use the `roundtrip_models.ipynb` notebooks to recreate the results from the Roundtrip modeling section
